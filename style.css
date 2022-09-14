@@ -36,7 +36,7 @@ li{
 }
 
 .lista-menu li>a {
-    color: #FFFF;
+    color: #520d0b;
     font-size: 22px;
     text-decoration: inherit;
 }
@@ -64,7 +64,7 @@ li{
 }
 .nomecompleto{
     font-size: 36px;
-    color: #3F5C44;
+    color: #520d0b;
     height: 45px;
     font-weight: 700;
 }
@@ -78,7 +78,7 @@ li{
 }
 .topico-principal{
     font-size: 36px;
-    color: #FFFF;
+    color: #520d0b;
 }
 
 .article-lista{
@@ -115,7 +115,7 @@ li{
 .lista-descricao {
     font-size: 18px;
     margin-top: 5px;
-    line-height: 20px; /*Espaçamento entre as linhas*/
+    line-height: 20px; 
     color: #000000;
     font-weight: 300;
 }
